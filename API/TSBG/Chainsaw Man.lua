@@ -1,0 +1,6 @@
+local MainAPI = loadstring(game:HttpGet("https://raw.githubusercontent.com/yes1nt/friedpotato/refs/heads/main/API/MAIN%20API.lua"))()
+local api = MainAPI:LoadTsbgAPI()
+local Main = api:CreateMoveset("Chainsaw Man")
+api:SetSupportedHeroes({"Hero Hunter"})
+api:Load()
+Main:LoadChainsawMan()
