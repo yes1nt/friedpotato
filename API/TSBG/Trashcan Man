@@ -1,0 +1,6 @@
+local MainAPI = loadstring(game:HttpGet("https://raw.githubusercontent.com/yes1nt/friedpotato/refs/heads/main/API/MAIN%20API.lua"))()
+local api = MainAPI:LoadTsbgAPI()
+local Main = api:CreateMoveset("Trashcan Man")
+api:SetSupportedHeroes({"The Strongest Hero", "Hero Hunter", "Hero Hunter Monster Form", "Destructive Cyborg", "Deadly Ninja", "Brutal Demon", "Blade Master", "Wild Psychic", "Martial Artist", "Tech Prodigy", "Undying Hero", "KJ", "Sorcerer"})
+api:Load()
+Main:LoadTrashcanMan()
