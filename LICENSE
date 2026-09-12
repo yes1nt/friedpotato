@@ -1,0 +1,73 @@
+Copyright (c) 2025 Scripts Creator
+
+All rights reserved.
+
+Everyone is permitted to read this license document.
+Changing the contents of this license is not permitted.
+
+                            Preamble
+
+This license strictly limits the usage of the accompanying software and assets.  
+It applies to all Lua scripts and media files (including but not limited to MP3s)  
+contained in the distribution. This license prohibits modification, redistribution,  
+reverse engineering, and commercial use, except under certain stated exceptions.
+
+By using any part of the provided files, you agree to the following terms:
+
+                      TERMS AND CONDITIONS
+
+**0. Definitions.**
+
+- "The Files" refers to all Lua scripts, MP3 files, and any other content included.
+- "You" refers to any individual or group using or accessing The Files.
+- "Use" means executing the provided Lua scripts or playing the media files without alteration.
+- "Protected Version" means any version of The Files that has been obfuscated, encrypted, or otherwise protected to prevent or restrict access to its original source code.
+
+**1. Permissions.**
+
+You are permitted to:
+
+* Use The Files for personal or public projects.
+* Run the Lua scripts and use the included media files as provided.
+* Redistribute and share unmodified copies of The Files.
+* Re-upload unmodified copies to platforms such as GitHub, Discord, YouTube, or other platforms.
+* Showcase or demonstrate The Files in videos, posts, or other content, credit is not required.
+
+**2. Restrictions.**
+
+You are NOT permitted to:
+
+* Modify, alter, remix, adapt, or create derivative versions of The Files.
+* Remove or alter credits, copyright notices, or this license.
+* Claim authorship or ownership of The Files.
+* Sell, resell, or commercially redistribute The Files themselves.
+* Redistribute modified, repackaged, or altered versions of The Files.
+* Repackage The Files and present them as your own work.
+* Reverse engineer, decompile, or attempt to extract the source or assets from protected versions.
+* Use The Files in a way that violates applicable laws or the rights of their respective owners.
+
+**3. Modified Open Source Content.**
+
+Some media files may be based on open-source content that has been modified.
+
+- These modified files are still covered by this license and may not be redistributed or altered.
+- If you believe a specific file is not originally owned by Scripts Creator, you may present evidence.
+- The author reserves the right to accept or reject such claims. False or bad-faith reports are considered violations.
+
+**4. No Warranty.**
+
+The Files are provided “as-is,” without warranty of any kind.  
+The creator is not responsible for any consequences of using them.
+
+**5. Termination and Enforcement.**
+
+Any violation of this license immediately and automatically terminates all rights and permissions granted under this license, without notice.
+Upon termination, you must immediately cease all use, distribution, and possession of The Files and delete all copies in your control.
+The copyright holder reserves the right to request the removal of unauthorized copies, issue takedown requests to hosting platforms, and pursue any other remedies available under applicable law.
+Unauthorized modification, redistribution, commercial use, or misrepresentation of The Files may result in enforcement action without further permission or notice.
+Termination of this license does not waive any rights, claims, or remedies available to the copyright holder.
+
+**6. Contact.**
+
+For permissions, disputes, or claims, contact:  
+**Friedpotatomatoe** on Discord.
