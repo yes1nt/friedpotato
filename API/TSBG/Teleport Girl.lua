@@ -1,0 +1,6 @@
+local MainAPI = loadstring(game:HttpGet("https://raw.githubusercontent.com/yes1nt/friedpotato/refs/heads/main/API/MAIN%20API.lua"))()
+local api = MainAPI:LoadTsbgAPI()
+local Main = api:CreateMoveset("Teleport Girl")
+api:SetSupportedHeroes({"Wild Psychic"})
+api:Load()
+Main:LoadTeleportGirl()
