@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Friedpotato-Hub-237268"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yes1nt/Friedpotato-Hub/refs/heads/main/Loader/Main.Lua"))()
